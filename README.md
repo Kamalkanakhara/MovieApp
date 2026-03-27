@@ -72,6 +72,10 @@ The app follows **MVVM (Model-View-ViewModel)** architecture:
 * **API**: TMDB API
 
 ---
+## 📦 APK
+
+👉 [Download APK](app-release.apk)
+
 
 ## 🚀 How to Run
 
