@@ -45,16 +45,18 @@ The app follows **MVVM (Model-View-ViewModel)** architecture:
 <h2>📸 Screenshots</h2>
 
 <p>
-  <img src="<img alt="splash_screen" src="https://github.com/user-attachments/assets/e01f99c0-f4b0-4ac3-93ea-f8f49e9a0460" />
-" width="200"/>
-  <img src="<img  alt="sign_in_screen" src="https://github.com/user-attachments/assets/73f4284d-22a9-4ab2-b395-943650899360" />
-" width="200"/>
-  <img src="" width="200"/>
+  <img src="https://github.com/user-attachments/assets/bfc960e5-8fb5-4db3-afbf-5e5739d217f0" width="200"/>
+  
+  <img src="https://github.com/user-attachments/assets/ea73ecd8-d656-407a-b1fe-d6a0ba8ca587" width="200"/>
+  
+  <img src="https://github.com/user-attachments/assets/d1ad0992-0c28-4596-beb1-c203df344787" width="200"/>
+
 </p>
 
 <p>
-  <img src="screenshots/details.png" width="200"/>
-  <img src="screenshots/profile.png" width="200"/>
+  <img src="https://github.com/user-attachments/assets/0558d2c9-97ec-4e14-bdae-c30d3866d199" width="200"/>
+  
+  <img src="https://github.com/user-attachments/assets/4b15b6e4-b645-4092-97bb-f3a78e5bf922"  width="200"/>
 </p>
 ---
 
@@ -68,14 +70,6 @@ The app follows **MVVM (Model-View-ViewModel)** architecture:
 * **Dependency Injection**: Hilt
 * **Image Loading**: Glide
 * **API**: TMDB API
-
----
-
-## 📦 APK
-
-Download the signed APK from below:
-
-👉 [Download APK](app-release.apk)
 
 ---
 
