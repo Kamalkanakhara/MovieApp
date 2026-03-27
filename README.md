@@ -80,7 +80,7 @@ The design was adapted and implemented using Android XML layouts while maintaini
 ---
 ## 📦 APK
 
-👉 [Download APK](app-release.apk)
+👉 [Download APK](app/release/app-release.apk)
 
 
 ## 🚀 How to Run
