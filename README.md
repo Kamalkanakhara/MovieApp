@@ -42,34 +42,20 @@ The app follows **MVVM (Model-View-ViewModel)** architecture:
 
 ---
 
-## 📸 Screenshots
+<h2>📸 Screenshots</h2>
 
-<!-- Add your screenshots here -->
+<p>
+  <img src="<img alt="splash_screen" src="https://github.com/user-attachments/assets/e01f99c0-f4b0-4ac3-93ea-f8f49e9a0460" />
+" width="200"/>
+  <img src="<img  alt="sign_in_screen" src="https://github.com/user-attachments/assets/73f4284d-22a9-4ab2-b395-943650899360" />
+" width="200"/>
+  <img src="" width="200"/>
+</p>
 
-| Splash Screen                    
-| --------------------------------- 
-| ![Splash](<img width="1080" height="2400" alt="splash_screen" src="https://github.com/user-attachments/assets/8c4da2c8-ec9f-4ffc-8509-570b0deb52c2" />) 
-
-|Sign-In Scrren
-|-----------------------------------
-| ![SignIn](<img width="1080" height="2400" alt="sign_in_screen" src="https://github.com/user-attachments/assets/3b368080-f4f9-4361-8ae9-8165114838ed" />) |
-
-|Sign-Up Scrren
-|-----------------------------------
-| ![SignUp](<img width="1080" height="2400" alt="sign_up_screen" src="https://github.com/user-attachments/assets/7332fcf0-f80d-40ae-b6e9-97f765293b04" />
-) |
-
-
-| Home Screen
-|-----------------------------------
-![Home](<img width="1080" height="2400" alt="Home_screen" src="https://github.com/user-attachments/assets/0fd5cf74-0eba-45a5-8f62-ce6b2723217e" />
-) |
-
-| Details Screen                      
-| ----------------------------------- 
-| ![Details](<img width="1080" height="2400" alt="Detail_scrren" src="https://github.com/user-attachments/assets/c048a142-25ef-4e35-86c4-29133df480f7" />
-) 
-
+<p>
+  <img src="screenshots/details.png" width="200"/>
+  <img src="screenshots/profile.png" width="200"/>
+</p>
 ---
 
 ## 🛠️ Tech Stack
