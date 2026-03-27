@@ -60,6 +60,14 @@ The app follows **MVVM (Model-View-ViewModel)** architecture:
 </p>
 ---
 
+## 🎨 UI Design Reference
+
+The UI of this application is inspired and designed based on the following Figma design:
+
+👉 https://www.figma.com/design/Rh3TjYknqGIPwfQwbkEe0c/Movie-App--Community-?node-id=1-5&t=WqZC9Zyc6iQhmIHG-0
+
+The design was adapted and implemented using Android XML layouts while maintaining a modern and user-friendly interface.
+
 ## 🛠️ Tech Stack
 
 * **Language**: Kotlin
